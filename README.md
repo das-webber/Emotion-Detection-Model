@@ -1,4 +1,4 @@
-# Emotion Detection Model 🎭
+# Emotion Detection Model 
 
 This project is a **Facial Emotion Detection System** built using **TensorFlow/Keras**, **OpenCV**, and **Tkinter**.  
 It detects human facial expressions and classifies them into seven categories:
