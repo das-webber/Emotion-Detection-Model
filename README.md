@@ -1,5 +1,10 @@
-# Emotion-Detection-Model
-This Model is Designed to predict/detect the emotion of a person through an gui
+# Emotion Detection Model 🎭
+
+This project is a **Facial Emotion Detection System** built using **TensorFlow/Keras**, **OpenCV**, and **Tkinter**.  
+It detects human facial expressions and classifies them into seven categories:
+
+**Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise**
+
 
 The model weights are too large to store in GitHub directly.  
 You can download them here:
